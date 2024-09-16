@@ -1,2 +1,2 @@
 # Frontend_Mentor
-Challenges du site web https://www.frontendmentor.io/
+Challenges du site web Frontend Mentor https://www.frontendmentor.io/
