@@ -1,0 +1,51 @@
+body {
+    background-color: #e5eff5;
+    width: 1440px;
+    font-family: "Karla";
+    font-size: 16px;
+}
+
+h1 {
+    color: #2ab2af;
+}
+
+#h2 {
+    color: #c0df34;
+}
+
+h2 {
+    color: #ffffff;
+}
+
+#grayishblue {
+    color: #98a6bd;
+}
+
+button {
+    font-family: "Karla";
+    background-color: #c0df34;
+    border: none;
+    /* Par défaut il y a une bordure lorsqu'on créé un bouton, pour l'enlever il faut appliquer la valeur none dans la propriété border */
+    width: 250px;
+    height: 50px;
+    color: #e5eff5;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+.gridcontainer {
+    
+    width: 1000px;
+    height: 500px;
+    border: 1px solid black;
+}
+
+.griditems{
+    width: 1200px;
+    height: 300px;
+}
+
+footer {
+    font-size: 11px;
+    text-align: center;
+}
