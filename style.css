@@ -28,7 +28,7 @@ button {
     /* Par défaut il y a une bordure lorsqu'on créé un bouton, pour l'enlever il faut appliquer la valeur none dans la propriété border */
     width: 250px;
     height: 50px;
-    color: ;
+    color: #ffffff;
     border-radius: 8px;
     font-size: 16px;
 }
