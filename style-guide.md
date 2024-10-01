@@ -1,35 +1,35 @@
-# Front-end Style Guide
+Guide de style frontal
 
-## Layout
+## Mise en page
 
-The designs were created to the following widths:
+Les conceptions ont été créées aux largeurs suivantes:
 
 - Mobile: 375px
 - Desktop: 1440px
 
-> 💡 These are just the design sizes. Ensure content is responsive and meets WCAG requirements by testing the full range of :!*c$ screen sizes from 320px to large screens.
+> 💡 Ce ne sont que les tailles de conception.Assurez-vous que le contenu est réactif et répond aux exigences WCAG en testant la gamme complète de :! * C $ Tailles d'écran de 320px aux grands écrans.
 
-## Colors
+Couleurs ##
 
-### Primary
+### Primaire
 
-- Cyan: hsl(179, 62%, 43%)
-- Bright Yellow: hsl(71, 73%, 54%)
+- Cyan: HSL (179, 62%, 43%)
+- jaune vif: HSL (71, 73%, 54%)
 
-### Neutral
+### Neutre
 
-- Light Gray: hsl(204, 43%, 93%)
-- Grayish Blue: hsl(218, 22%, 67%)
+- Gris clair: HSL (204, 43%, 93%)
+- Bleu grisâtre: HSL (218, 22%, 67%)
 
-## Typography
+## Typographie
 
-### Body Copy
+### copie corporelle
 
-- Font size: 16px
+- Taille de la police: 16px
 
 ### Font
 
-- Family: [Karla](https://fonts.google.com/specimen/Karla)
-- Weights: 400, 700
+- Famille: [Karla] (https://fonts.google.com/specimen/karla)
+- Poids: 400, 700
 
-> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma.
+> 💎 [Passer à Pro] (https://www.frontendmentor.io/pro?ref=style-guide) pour un accès de fichiers de conception pour voir tous les détails de conception et obtenir une expérience pratique en utilisant un flux de travail professionnel avec des outils comme Figma.

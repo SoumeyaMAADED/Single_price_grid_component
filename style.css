@@ -1,16 +1,16 @@
 body {
-    background-color: #e5eff5;
+    background-color: #f2f2f2;
     width: 1440px;
     font-family: "Karla";
     font-size: 16px;
 }
 
 h1 {
-    color: #2ab2af;
+    color: #2ab3b1;
 }
 
 #h2 {
-    color: #c0df34;
+    color: #c0df33;
 }
 
 h2 {
@@ -18,17 +18,17 @@ h2 {
 }
 
 #grayishblue {
-    color: #98a6bd;
+    color: #9aa7be;
 }
 
 button {
     font-family: "Karla";
-    background-color: #c0df34;
+    background-color: #c0df33;
     border: none;
     /* Par défaut il y a une bordure lorsqu'on créé un bouton, pour l'enlever il faut appliquer la valeur none dans la propriété border */
     width: 250px;
     height: 50px;
-    color: #e5eff5;
+    color: ;
     border-radius: 8px;
     font-size: 16px;
 }
@@ -37,7 +37,7 @@ button {
     
     width: 1000px;
     height: 500px;
-    border: 1px solid black;
+    border: 1px solid ;
 }
 
 .griditems{

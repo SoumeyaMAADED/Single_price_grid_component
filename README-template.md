@@ -1,111 +1,111 @@
-# Frontend Mentor - Single price grid component solution
+# Frontend Mentor - Solution de composante de grille à prix unique
 
-This is a solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Il s'agit d'une solution au [défi de composant de grille à prix unique sur Frontend Mentor] (https://www.fronttendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc).Les défis du mentor de frontend vous aident à améliorer vos compétences de codage en créant des projets réalistes. 
 
-## Table of contents
+## Table des matières
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Présentation] (# Présentation)
+- [Le ​​défi] (# le défi)
+- [Capture d'écran] (# capture d'écran)
+- [liens] (# liens)
+- [mon processus] (# mon processus)
+- [construit avec] (# construit avec)
+- [Ce que j'ai appris] (# What-i-Apparned)
+- [développement continu] (# continu de développement)
+- [Ressources utiles] (# Resources utiles)
+- [Auteur] (# auteur)
+- [Remerciements] (# remerciements)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+** Remarque: supprimez cette note et mettez à jour la table des matières en fonction des sections que vous gardez. **
 
-## Overview
+## Aperçu
 
-### The challenge
+### Le défi
 
-Users should be able to:
+Les utilisateurs doivent être en mesure de:
 
-- View the optimal layout for the component depending on their device's screen size
-- See a hover state on desktop for the Sign Up call-to-action
+- Afficher la disposition optimale du composant en fonction de la taille de l'écran de leur appareil
+- Voir un état de survol sur le bureau pour l'inscription d'appel à l'action
 
-### Screenshot
+Capture d'écran ###
 
-![](./screenshot.jpg)
+! [] (./ Capture Screen.jpg)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+Ajoutez une capture d'écran de votre solution.La façon la plus simple de le faire est d'utiliser Firefox pour afficher votre projet, cliquer avec le bouton droit sur la page et sélectionner "Prenez une capture d'écran".Vous pouvez choisir soit une capture d'écran pleine hauteur ou une capture d'écran courte en fonction de la durée de la page.S'il est très long, il pourrait être préférable de le recadrer.
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+Alternativement, vous pouvez utiliser un outil comme [Fireshot] (https://getfireshot.com/) pour prendre la capture d'écran.Fireshot a une option gratuite, vous n'avez donc pas besoin de l'acheter. 
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+Ensuite, recadrez / optimiser / optimiser votre image comme vous le souhaitez, l'ajoutez à votre projet et mettez à jour le chemin de fichier dans l'image ci-dessus.
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+** Remarque: supprimez cette note et les paragraphes ci-dessus lorsque vous ajoutez votre capture d'écran.Si vous préférez ne pas ajouter de capture d'écran, n'hésitez pas à supprimer toute cette section. **
 
-### Links
+Liens ###
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- URL de la solution: [Ajouter une URL de la solution ici] (https://your-solution-url.com)
+- URL du site en direct: [Ajouter une URL du site en direct ici] (https://your-live-site-url.com)
 
-## My process
+## mon processus
 
-### Built with
+### construit avec
 
-- Semantic HTML5 markup
-- CSS custom properties
+- Marquage sémantique HTML5
+- Propriétés personnalisées CSS
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- Grille CSS
+- flux de travail avant le mobile
+- [React] (https://reactjs.org/) - bibliothèque JS
+- [next.js] (https://nextjs.org/) - React Framework
+- [Composants stylisés] (https://styled-components.com/) - Pour les styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+** Remarque: ce ne sont que des exemples.Supprimez cette note et remplacez la liste ci-dessus par vos propres choix **
 
-### What I learned
+### Ce que j'ai appris
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Utilisez cette section pour récapituler certains de vos apprentissages majeurs tout en travaillant à travers ce projet.Les rédiger et la fourniture d'échantillons de code de domaines que vous souhaitez mettre en évidence est un excellent moyen de renforcer vos propres connaissances.
 
-To see how you can add code snippets, see below:
+Pour voir comment vous pouvez ajouter des extraits de code, voir ci-dessous:
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
+`` HTML
+<h1> du code HTML Je suis fier de </h1>
+`` '
+`` CSS
 .proud-of-this-css {
-  color: papayawhip;
+Couleur: Papayawhip;
 }
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
+`` '
+`` JS
+const froudofthisfunc = () => {
+console.log ('🎉')
 }
-```
+`` '
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+Si vous voulez plus d'aide pour rédiger Markdown, nous vous recommandons de consulter [le guide Markdown] (https://www.markdownguide.org/) pour en savoir plus.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+** Remarque: supprimez cette note et le contenu dans cette section et remplacez par vos propres apprentissages. **
 
-### Continued development
+### Développement continu
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Utilisez cette section pour décrire les domaines sur lesquels vous souhaitez continuer à vous concentrer dans les futurs projets.Il peut s'agir de concepts avec lesquels vous n'êtes toujours pas complètement à l'aise ou des techniques que vous avez trouvées utiles que vous souhaitez affiner et perfectionner.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+** Remarque: supprimez cette note et le contenu dans cette section et remplacez par vos propres plans pour le développement continu. **
 
-### Useful resources
+### Ressources utiles
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Exemple de ressource 1] (https://www.example.com) - Cela m'a aidé pour la raison XYZ.J'ai vraiment aimé ce modèle et je l'utiliserai à l'avenir.
+- [Exemple de ressource 2] (https://www.example.com) - C'est un article incroyable qui m'a enfin aidé à comprendre XYZ.Je le recommanderais à tous ceux qui apprennent encore ce concept.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+** Remarque: supprimez cette note et remplacez la liste ci-dessus par des ressources qui vous ont aidé pendant le défi.Ceux-ci pourraient être utiles pour tous ceux qui consultent votre solution ou pour vous-même lorsque vous regardez ce projet à l'avenir. **
 
-## Author
+## Auteur
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Site Web - [Ajoutez votre nom ici] (https://www.your-site.com)
+- Frontend Mentor - [@yourUsername] (https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@yourUsername] (https://www.twitter.com/yourUsername)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+** Remarque: supprimez cette note et ajoutez / supprimer / modifier les lignes ci-dessus en fonction des liens que vous souhaitez partager. **
 
-## Acknowledgments
+## remerciements
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+C'est là que vous pouvez donner un pourboire à tous ceux qui vous ont aidé sur ce projet.Peut-être que vous avez travaillé dans une équipe ou vous êtes inspiré de la solution de quelqu'un d'autre.C'est l'endroit idéal pour leur donner du crédit.
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+** Remarque: supprimez cette note et modifiez le contenu de cette section si nécessaire.Si vous avez terminé ce défi par vous-même, n'hésitez pas à supprimer entièrement cette section. **
